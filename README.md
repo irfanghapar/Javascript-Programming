@@ -12,7 +12,7 @@ I always use starter code to start each section, and **final code to compare it 
 
 ### 2: What VSCode theme are you using?
 
-**A:** I use Monokai Pro for all my coding and course production. It's a paid theme (I', **not** affiliated with them), but you can use the free demo version forever 😅
+**A:** I use Prettier for all my coding and course production. It's a free theme 😅
 
 ### 3: What projects I have done from learning this Javascript?
 
