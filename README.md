@@ -1,6 +1,6 @@
 # What You Should Know About This Repository
 
-This repo branch contains code for all sections of what we should know to develop in Javascript. I have created this from what I have learned.
+This repo branch contains code for all sections on what we should know to develop in Javascript. I have created this from scratch from what I have learned.
 
 I always use starter code to start each section, and **final code to compare it with my code whenever something doesn't work**!
 
