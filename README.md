@@ -1,4 +1,4 @@
-# What you should know about this repository
+# What You Should Know About This Repository
 
 This branch of the repo contains code for all sections of what we should know to develop in Javascript. I have created this from what I have learned.
 
