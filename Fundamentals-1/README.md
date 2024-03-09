@@ -15,7 +15,6 @@ BMI = mass / height ** 2 = mass / (height * height) (mass in kg and height in me
 - **Data 1:** Mark weighs 78 kg and is 1.69 m tall. John weighs 92 kg and is 1.95 m tall.
 - **Data 2:** Mark weighs 95 kg and is 1.88 m tall. John weighs 85 kg and is 1.76 m tall.
 
-**GOOD LUCK!**
 
 ### Coding Challenge #2
 
