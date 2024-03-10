@@ -17,7 +17,7 @@ I always use starter code to start each section, and **final code to compare it 
 ### 3: What projects I have done from learning this Javascript?
 
 **A:** Sure! Here you go:
-- [Guess My Number] (https://github.com/irfanghapar/Guess-My-Number/tree/main) 
+- [Guess My Number](https://github.com/irfanghapar/Guess-My-Number/tree/main) (DOM and Events Fundamental)
 - [Pig Game](https://pig-game-v2.netlify.app) (DOM Manipulation)
 - [Bankist](https://bankist.netlify.app/) (Arrays, Numbers, Dates, Timers. Fake "log in" with user `js` and PIN `1111`)
 - [Bankist Site](https://bankist-dom.netlify.app/) (Advanced DOM and Events)
