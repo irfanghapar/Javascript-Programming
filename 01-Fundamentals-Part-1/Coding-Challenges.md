@@ -1,7 +1,3 @@
-Certainly! Below is a README.md file format containing the coding challenges you've provided:
-
----
-
 # Coding Challenges
 
 ## Challenge #1
@@ -72,7 +68,3 @@ Steven wants to build a very simple tip calculator for whenever he goes eating i
 - Value X is between 50 and 300 if it's >= 50 && <= 300 😉
 
 **GOOD LUCK!**
-
----
-
-You can now include this README.md file in your GitHub page as questions for the coding challenges. Let me know if you need further assistance!
