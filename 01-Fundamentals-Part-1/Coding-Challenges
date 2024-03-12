@@ -6,7 +6,7 @@ BMI = mass / height ** 2 = mass / (height * height) (mass in kg and height in me
 
 **Your tasks:**
 
-1. **Store Mark's and John's mass and height in variables**
+1. **Store Mark's and John's mass and height in variables.**
 2. **Calculate both their BMIs using the formula (you can even implement both versions)**
 3. **Create a Boolean variable 'markHigherBMI' containing information about whether Mark has a higher BMI than John.**
 
